@@ -1,11 +1,11 @@
 # Soli Deo Gloria
 Hello! This is my *Soli Deo Gloria* theme. As you can see, the title is in a different language. This language is Latin and *Soli Deo Gloria* translates to: "Glory to God alone."
 
-![[Showcase1.png]]
+![](/Showcase1.png)
 
 My inspiration is from old German bibles and Gothic Style of calligraphy. In this theme I aim to draw out the beauty in old sacred texts and bring it into a modern format. The design incorporates elements inspired by the intricate detail and flowing script found in illuminated manuscripts. Expect a clean, uncluttered interface that prioritizes readability and focuses on enhancing your Obsidian note-taking experience.
 
-![[Showcase2.png]]
+![](Showcase2.png)
 ## Fonts
 - Germania-One
 - Cormorant Garamond
